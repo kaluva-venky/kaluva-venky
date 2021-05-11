@@ -8,8 +8,8 @@
   - 🎓 Computer Science student at The University of Texas at Dallas
   - 👨‍💻 3 years of experience as Software Engineer
   - 🖥 A developer who never backs-out from getting hands dirty with new technologies
-  - 💪 Full-stack developer and on track learning DevOps and cloud skills
-  - 🎯 Goal is to build tools that help developers in their day to days tasks
+  - 💪 Full-stack developer and on track learning DevOps and Cloud Skills
+  - 🎯 Goal is to build tools that help developers in their day to day tasks
 
 
 <h3>Things I currently use</h3>
